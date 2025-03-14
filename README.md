@@ -2,6 +2,7 @@
 #### Our paper was accepted by IEEE Transactions on Industrial Informatics (TII)!
 https://ieeexplore.ieee.org/abstract/document/10507010
 
+[Uploading 2024-MFANet Multifeature Aggregation Network for Cross-Granularity Few-Shot Seamless Steel Tubes Surface Defect Segmentation.pdf…]()
 
 
 ![mfanet](https://github.com/user-attachments/assets/95472c78-6bce-4e85-b81d-28e280322c3f)
