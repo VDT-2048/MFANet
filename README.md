@@ -2,16 +2,20 @@
 #### Our paper was accepted by IEEE Transactions on Industrial Informatics (TII)!
 https://ieeexplore.ieee.org/abstract/document/10507010
 
-![img.png](Robot.png)
-![img.png](dataset.png)
-![img.png](mfanet.png)
+
+
+![mfanet](https://github.com/user-attachments/assets/95472c78-6bce-4e85-b81d-28e280322c3f)
+
+![dataset](https://github.com/user-attachments/assets/0b007563-0839-4a92-94c7-d462670e692a)
+
 
 ## Code and Dataset
-The code and dataset are available at [here]().
+The code and dataset are available at (https://pan.baidu.com/s/1kNc5HW_VsmD1DRHoZEIqYw?pwd=h4hb).
 
 ## Result
 
-![img.png](vis.png)
+
+![vis](https://github.com/user-attachments/assets/2d4115b9-860c-42c5-85d8-4925ff9aa72f)
 
 ## Citation
 ```
